@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">tesla</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="clear">clear</string>
+    <string name="save">save</string>
+    <string name="mesbha">المسبحة الإلكترونية</string>
+    <string name="log_in">log in</string>
+    <string name="come">بس انت ادخل يا عم</string>
+
+    <string-array name="LogInSpinner">
+        <item>Anas</item>
+        <item>Mohammed</item>
+        <item>Hamed</item>
+        <item>Ismaeiel</item>
+    </string-array>
+
+    <string-array name="spinnerList">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    <string name="title_activity_list">List</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
